@@ -1,0 +1,38 @@
+ * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+header {
+  background-color: rgb(2, 34, 34);
+  height: 100px;
+  width: 100%;
+}
+
+
+main {
+    background-color: blue;
+    height: 500px;
+    header 
+    width: 100%;
+
+}
+
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: brown;
+}
+
+.navigation-bar {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.border-style-dotted {
+       border-style: dotted;
+}
