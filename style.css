@@ -10,18 +10,12 @@ header {
 }
 
 
-main {
-    background-color: rgb(128, 25, 56);
-       height: 500px;
 
-    width: 100%;
-
-}
 
 footer {
   height: 100px;
   width: 100%;
-  background-color: brown;
+  background-color: rgb(0, 0, 0);
 }
 
 .navigation-bar { 
@@ -177,3 +171,28 @@ margin-left: 5rem;
   .box-acquamarine:last-child{
   margin-right: 5rem;
   }
+
+  .border-style-dotted-w{ 
+        border-style: dotted;
+        border-color: white;
+  }
+
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;    
+  color: white;
+}
+
+
+.box-lightgreen { 
+background-color: rgb(228, 199, 255);
+  height: 80%;
+  width: 70%;
+  margin-left:10rem;
+
+    }
+
