@@ -133,3 +133,47 @@ footer {
   width: 70%;
   margin-left:10rem;
   }
+
+.bg-grey-mag{
+  background-color: rgb(185, 185, 185);
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-green {
+  background-color: rgb(9, 63, 30);
+  height: 500px;
+  width: 700px;
+
+}
+
+.bg-black {
+  background-color: rgb(0, 0, 0);
+  height: 400px;
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+
+}
+
+.box-red {
+  background-color: rgb(247, 85, 85);
+   height: 80%;
+   width: 40%;
+margin-left: 5rem;
+  
+  }
+
+  .box-acquamarine {
+  background-color: rgb(0, 255, 191);
+   height: 80%;
+   width: 15%;
+
+  }
+
+  .box-acquamarine:last-child{
+  margin-right: 5rem;
+  }
