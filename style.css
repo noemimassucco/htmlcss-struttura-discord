@@ -39,28 +39,42 @@ footer {
        border-style: dotted;
        }
 
+
 .bg-white{
- background-color: rgb(255, 255, 255);
-   height: 400px
- }
+  background-color: white;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
 .pink{
   background-color: pink;
    height: 400px
   }
 .blue{
-  background-color: blue; 
+  background-color: rgb(17, 0, 255);
   height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.grey
 
 .bg-white{
   background-color: white;
-  height: 400px}
-
-.box-violet {
-  background-color: blueviolet;
-  height: 100px;
+  height: 400px;
   display: flex;
   justify-content: center;
-  gap: 1;
+  align-items: center;
+
+}
+
+.box-violet {
+  background-color: rgb(158, 84, 228);
+  height: 300px;
+  width: 600px;
+
+
+
 }
