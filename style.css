@@ -111,3 +111,25 @@ footer {
    margin-right: 10rem;
 
 }
+
+.bg-grey{
+  background-color: rgb(185, 185, 185);
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-blue-min {
+  background-color: rgb(0, 60, 255);
+   height: 80%;
+   width: 30%;
+   margin-right: 10rem;
+}
+
+.box-pink-min {
+  background-color: rgb(228, 199, 255);
+  height: 80%;
+  width: 70%;
+  margin-left:10rem;
+  }
